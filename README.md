@@ -1,5 +1,5 @@
 # CMS-Halim-Perdanakusuma-Airport
-Preivew Tampilan
+Preview Tampilan
 
 -- Halaman Utama > Menampilkan gambar/video berupa slideshow fullscreen --
 ![awal](https://user-images.githubusercontent.com/38320169/81274095-0a36e100-907a-11ea-8a1f-0eb4ab6c9c3b.jpg)
